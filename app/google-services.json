@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "354607303886",
+    "firebase_url": "https://memorylane-8e05d.firebaseio.com",
+    "project_id": "memorylane-8e05d",
+    "storage_bucket": "memorylane-8e05d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354607303886:android:7d1b492934a1ef0e91149f",
+        "android_client_info": {
+          "package_name": "com.example.memorylane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354607303886-tg60mmnd5s2d9unur6le60d82g8332vp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memorylane",
+            "certificate_hash": "88eb0e779973530c48f43b6b96eee6e711651999"
+          }
+        },
+        {
+          "client_id": "354607303886-d46j5b9k1uou10t5k462c71sobevb747.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATCJni_RVMqaBLa_hs2bkBQ-clo2tYrmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354607303886-d46j5b9k1uou10t5k462c71sobevb747.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
